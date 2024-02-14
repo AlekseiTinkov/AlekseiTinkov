@@ -1,5 +1,5 @@
 # Привет, меня зовут Алексей!
-
+Я начинающий iOS-разработчик. В 2023 я изучал мобилную разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я участвую в карьерном треке Практикума!
 <!--
 **AlekseiTinkov/AlekseiTinkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
