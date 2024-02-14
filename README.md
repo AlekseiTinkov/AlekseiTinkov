@@ -1,4 +1,4 @@
-##### Привет, меня зовут Алексей!
+## Привет, меня зовут Алексей!
 
 <!--
 **AlekseiTinkov/AlekseiTinkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
